@@ -19,7 +19,7 @@ function getAllUrlParams(url) {
 
   // get query string from url (optional) or window
   var queryString = url ? url.split('?')[1] : window.location.search.slice(1);
-console.log (queryString);
+
   // we'll store the parameters here
   var obj = {};
 
@@ -32,19 +32,19 @@ console.log (queryString);
     // split our query string into its component parts
     var arr = queryString.split('&');
 
-    for (var i=0; i<arr.length; i++) {
+    for (var i = 0; i < arr.length; i++) {
       // separate the keys and the values
       var a = arr[i].split('=');
 
       // in case params look like: list[]=thing1&list[]=thing2
       var paramNum = undefined;
       var paramName = a[0].replace(/\[\d*\]/, function(v) {
-        paramNum = v.slice(1,-1);
+        paramNum = v.slice(1, -1);
         return '';
       });
 
       // set parameter value (use 'true' if empty)
-      var paramValue = typeof(a[1])==='undefined' ? true : a[1];
+      var paramValue = typeof(a[1]) === 'undefined' ? true : a[1];
 
       // (optional) keep case consistent
       paramName = paramName.toLowerCase();
@@ -76,9 +76,9 @@ console.log (queryString);
 
   return obj;
 }
-var fileName = getAllUrlParams().filename;
+var fileName = getAllUrlParams().filename!=null ? getAllUrlParams().filename : "Mothering.json";
 console.log(fileName);
-d3.json("data/"+fileName, function(error, graph) {
+d3.json("data/" + fileName, function(error, graph) {
   //Generic Nodes --- to do replace with MLS data model
   // set the nodes
   var nodes_data = graph.nodes_data;

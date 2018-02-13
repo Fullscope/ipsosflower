@@ -77,7 +77,7 @@ function getAllUrlParams(url) {
   return obj;
 }
 var fileName = getAllUrlParams().filename!=null ? getAllUrlParams().filename : "Mothering.json";
-console.log(fileName);
+
 d3.json("data/" + fileName, function(error, graph) {
   //Generic Nodes --- to do replace with MLS data model
   // set the nodes
@@ -89,10 +89,12 @@ d3.json("data/" + fileName, function(error, graph) {
   var nodeShapes = graph.display[1].shapes;
   var nodeTypes = graph.display[2].types;
   // graph options
-  var shape_active = graph.graph[0].nodeShapes;
-  var size_active = graph.graph[0].nodeSizes;
-  var linkColor_active = graph.graph[0].linkColors;
-  var fastGraph = graph.graph[0].fastGraph;
+
+  var shape_active = getAllUrlParams().nodeshapes!=null ? getAllUrlParams().nodeshapes :graph.graph[0].nodeShapes;
+  var size_active = getAllUrlParams().nodesizes!=null ? getAllUrlParams().nodesizes :graph.graph[0].nodeSizes;
+  var linkColor_active = getAllUrlParams().linkcolors!=null ? getAllUrlParams().linkcolors :graph.graph[0].linkColors;
+  var fastGraph = getAllUrlParams().fastgraph!=null ? getAllUrlParams().fastgraph :graph.graph[0].fastGraph;
+  console.log(shape_active);
   // relative shape sized -- to do actually think about what this pseudo algo does---
   var ratio = (width * height) / nodes_data.length
   var r = ratio * 0.005;

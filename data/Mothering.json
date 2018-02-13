@@ -1,0 +1,455 @@
+{
+  "graph": [{
+    "nodeShapes": false,
+    "nodeSizes": true,
+    "linkColors": true,
+    "fastGraph": false
+  }],
+  "links_data": [{
+      "source": 579,
+      "target": 1128,
+      "type": "similar"
+    },
+    {
+      "source": 697,
+      "target": 798,
+      "type": "similar"
+    },
+    {
+      "source": 705,
+      "target": 800,
+      "type": "inspired_by"
+    },
+    {
+      "source": 722,
+      "target": 803,
+      "type": "inspired_by"
+    },
+    {
+      "source": 733,
+      "target": 796,
+      "type": "inspired_by"
+    },
+    {
+      "source": 743,
+      "target": 1124,
+      "type": "inspired_by"
+    },
+    {
+      "source": 754,
+      "target": 1126,
+      "type": "inspired_by"
+    },
+    {
+      "source": 764,
+      "target": 809,
+      "type": "inspired_by"
+    },
+    {
+      "source": 764,
+      "target": 1128,
+      "type": "similar"
+    },
+    {
+      "source": 776,
+      "target": 1130,
+      "type": "inspired_by"
+    },
+    {
+      "source": 796,
+      "target": 579,
+      "type": "tension"
+    },
+    {
+      "source": 796,
+      "target": 793,
+      "type": "tension"
+    },
+    {
+      "source": 796,
+      "target": 794,
+      "type": "tension"
+    },
+    {
+      "source": 798,
+      "target": 818,
+      "type": "tension"
+    },
+    {
+      "source": 798,
+      "target": 819,
+      "type": "tension"
+    },
+    {
+      "source": 800,
+      "target": 820,
+      "type": "inspired_by"
+    },
+    {
+      "source": 800,
+      "target": 823,
+      "type": "tension"
+    },
+    {
+      "source": 800,
+      "target": 1100,
+      "type": "tension"
+    },
+    {
+      "source": 803,
+      "target": 786,
+      "type": "tension"
+    },
+    {
+      "source": 803,
+      "target": 788,
+      "type": "tension"
+    },
+    {
+      "source": 803,
+      "target": 789,
+      "type": "inspired_by"
+    },
+    {
+      "source": 809,
+      "target": 697,
+      "type": "inspired_by"
+    },
+    {
+      "source": 809,
+      "target": 705,
+      "type": "inspired_by"
+    },
+    {
+      "source": 809,
+      "target": 722,
+      "type": "inspired_by"
+    },
+    {
+      "source": 809,
+      "target": 733,
+      "type": "inspired_by"
+    },
+    {
+      "source": 809,
+      "target": 743,
+      "type": "inspired_by"
+    },
+    {
+      "source": 809,
+      "target": 754,
+      "type": "inspired_by"
+    },
+    {
+      "source": 809,
+      "target": 776,
+      "type": "inspired_by"
+    },
+    {
+      "source": 825,
+      "target": 1128,
+      "type": "inspired_by"
+    },
+    {
+      "source": 1124,
+      "target": 795,
+      "type": "tension"
+    },
+    {
+      "source": 1124,
+      "target": 816,
+      "type": "tension"
+    },
+    {
+      "source": 1124,
+      "target": 1080,
+      "type": "tension"
+    },
+    {
+      "source": 1126,
+      "target": 830,
+      "type": "inspired_by"
+    },
+    {
+      "source": 1126,
+      "target": 831,
+      "type": "tension"
+    },
+    {
+      "source": 1126,
+      "target": 1093,
+      "type": "inspired_by"
+    },
+    {
+      "source": 1128,
+      "target": 826,
+      "type": "tension"
+    },
+    {
+      "source": 1128,
+      "target": 827,
+      "type": "tension"
+    },
+    {
+      "source": 1130,
+      "target": 828,
+      "type": "tension"
+    },
+    {
+      "source": 1130,
+      "target": 829,
+      "type": "tension"
+    }
+  ],
+  "nodes_data": [{
+      "id": 579,
+      "types": "Insight",
+      "title": "Am I Helping or Harming My Kid? Help Me!",
+      "trending": 5
+    },
+    {
+      "id": 697,
+      "types": "Fundamental Motivation ",
+      "title": "Enjoyment",
+      "trending": 1
+    },
+    {
+      "id": 705,
+      "types": "Fundamental Motivation ",
+      "title": "Conviviality",
+      "trending": 9
+    },
+    {
+      "id": 722,
+      "types": "Fundamental Motivation ",
+      "title": "Belonging",
+      "trending": 1
+    },
+    {
+      "id": 733,
+      "types": "Fundamental Motivation ",
+      "title": "Security",
+      "trending": 8
+    },
+    {
+      "id": 743,
+      "types": "Fundamental Motivation ",
+      "title": "Control",
+      "trending": 5
+    },
+    {
+      "id": 754,
+      "types": "Fundamental Motivation ",
+      "title": "Recognition",
+      "trending": 10
+    },
+    {
+      "id": 764,
+      "types": "Fundamental Motivation ",
+      "title": "Power",
+      "trending": 2
+    },
+    {
+      "id": 776,
+      "types": "Fundamental Motivation ",
+      "title": "Vitality",
+      "trending": 5
+    },
+    {
+      "id": 786,
+      "types": "Insight",
+      "title": "Oppression of Modernity - Has Tradition Become A Bad Word?",
+      "trending": 7
+    },
+    {
+      "id": 788,
+      "types": "Insight",
+      "title": "Catching Up with My Kids",
+      "trending": 4
+    },
+    {
+      "id": 789,
+      "types": "Insight",
+      "title": "Creating New Traditions! With the Dad!",
+      "trending": 5
+    },
+    {
+      "id": 793,
+      "types": "Insight",
+      "title": "Wish I Could Clone ME!",
+      "trending": 4
+    },
+    {
+      "id": 794,
+      "types": "Insight",
+      "title": "It's a Bad Bad World Out There!",
+      "trending": 5
+    },
+    {
+      "id": 795,
+      "types": "Insight",
+      "title": "A Tiger by Different Stripes!",
+      "trending": 5
+    },
+    {
+      "id": 796,
+      "types": "Applied Motivation",
+      "title": "MOTHERING IS ABOUT CREATING A SAFE AND HEALTHY OASIS FOR MY CHILD TO GROW",
+      "trending": 4
+    },
+    {
+      "id": 798,
+      "types": "Applied Motivation",
+      "title": "WISH BEING MOM WAS MORE SIMPLE AND ENJOYABLE ",
+      "trending": 3
+    },
+    {
+      "id": 800,
+      "types": "Applied Motivation",
+      "title": "MY CHILD IS THE CENTER OF MY WORLD",
+      "trending": 4
+    },
+    {
+      "id": 803,
+      "types": "Applied Motivation",
+      "title": "MOTHERING IS MY FUNDAMENTAL DUTY AS A WOMAN ",
+      "trending": 9
+    },
+    {
+      "id": 809,
+      "types": "Censydiam",
+      "title": "Welcome to Mothering Excellence - and Censydiam as the guiding framework.",
+      "trending": 3
+    },
+    {
+      "id": 816,
+      "types": "Insight",
+      "title": "DIY and Risk Overburden, or Let GO and Add On to Headache",
+      "trending": 2
+    },
+    {
+      "id": 818,
+      "types": "Insight",
+      "title": "I Want To Break Free!",
+      "trending": 1
+    },
+    {
+      "id": 819,
+      "types": "Insight",
+      "title": "Even if My Baby does, Will My Faith Forgive Me?",
+      "trending": 9
+    },
+    {
+      "id": 820,
+      "types": "Insight",
+      "title": "Letting Kids be Kids First",
+      "trending": 7
+    },
+    {
+      "id": 823,
+      "types": "Insight",
+      "title": "What can I Trade for Spending More Precious Time with My Child?",
+      "trending": 2
+    },
+    {
+      "id": 825,
+      "types": "Insight",
+      "title": "2nd Place is The 1st Place for Losers!",
+      "trending": 6
+    },
+    {
+      "id": 826,
+      "types": "Insight",
+      "title": "Motherhood is Sexy, but Am I?",
+      "trending": 8
+    },
+    {
+      "id": 827,
+      "types": "Insight",
+      "title": "The Happy Family Competition",
+      "trending": 5
+    },
+    {
+      "id": 828,
+      "types": "Insight",
+      "title": "Exploring in A New Virtual World",
+      "trending": 1
+    },
+    {
+      "id": 829,
+      "types": "Insight",
+      "title": "Child on Leash - Let Go...Reel In",
+      "trending": 5
+    },
+    {
+      "id": 830,
+      "types": "Insight",
+      "title": "Knowledge is Success",
+      "trending": 7
+    },
+    {
+      "id": 831,
+      "types": "Insight",
+      "title": "Unique vs Common",
+      "trending": 1
+    },
+    {
+      "id": 1080,
+      "types": "Insight",
+      "title": "Losing Control in The New Playground - Digital",
+      "trending": 1
+    },
+    {
+      "id": 1093,
+      "types": "Insight",
+      "title": "Expert Me - Brand Me Mom",
+      "trending": 1
+    },
+    {
+      "id": 1100,
+      "types": "Insight",
+      "title": "Walking The Tight Line of Loving, Not Pampering",
+      "trending": 9
+    },
+    {
+      "id": 1124,
+      "types": "Applied Motivation",
+      "title": "MOTHER KNOWS BEST!",
+      "trending": 2
+    },
+    {
+      "id": 1126,
+      "types": "Applied Motivation",
+      "title": "ONE STEP AHEAD ",
+      "trending": 7
+    },
+    {
+      "id": 1128,
+      "types": "Applied Motivation",
+      "title": "IT IS ALL ABOUT WINNING",
+      "trending": 10
+    },
+    {
+      "id": 1130,
+      "types": "Applied Motivation",
+      "title": "DISCOVERING THE JOURNEY OF BEING A MOM ",
+      "trending": 5
+    }
+  ],
+  "display": [{
+      "colors": [
+        "#F8DD92", "#A9C9F3", "#FC7375", "#80FFCE", "#52197E"
+      ]
+    },
+    {
+      "shapes": [
+        "square", "triangle", "triangle", "rhombus", "rhombus"
+      ]
+    },
+    {
+      "types": [
+        "Censydiam", "Fundamental Motivation ", "Applied Motivation", "Insight"
+      ]
+    }
+  ]
+}

@@ -5,7 +5,7 @@
 // create an svg to draw in
 var svg = d3.select("svg")
 width = +svg.attr("width"),
-  height = +svg.attr("height");
+height = +svg.attr("height");
 svg.attr("class", "graph-svg-component");
 var defs = svg.append("defs");
 //change cursos style for drag
@@ -102,7 +102,7 @@ d3.json("data/" + fileName, function(error, graph) {
   var maxRadius = 15;
   r = (r < minRadius) ? minRadius : r;
   r = (r > maxRadius) ? maxRadius : r;
-  var radiusShapeMultiplier = 25;
+  var radiusShapeMultiplier = shape_active ? 10:20;
   var radiusShapeTrendOffset = radiusShapeMultiplier - 10;
   var radiusShapeTrendMultiplier = 1 + r / 10;
   // graph simulation settings
@@ -122,14 +122,12 @@ d3.json("data/" + fileName, function(error, graph) {
     .velocityDecay(graphSimV)
     .alphaMin(graphSimAlphaMin)
     .alphaDecay(graphSimAlphaD)
-  //-----todo: wights on x and y dforces based on aspect ratio------
-  /*.force("forcex", d3.forceX(width / 2).strength(function(d) {
-
-  	return width > height ? width/height*0.005 : width/height*0.01
+  .force("forcex", d3.forceX(width / 2).strength(function(d) {
+  	return width > height ? width/height*0.005 : height/width*0.02
   }))
   .force("forcey", d3.forceY(height / 2).strength(function(d) {
-  	return width > height ? width/height*0.01 : width/height*0.005
-  }))*/
+  	return width > height ? width/height*0.02 : height/width*0.005
+  }))
   ;
 
   //graph update ticker
@@ -150,7 +148,7 @@ d3.json("data/" + fileName, function(error, graph) {
   var lineType = fastGraph ? "line" : "path";
   var link = g.append("g")
     .attr("class", "links")
-    .attr("stroke-width", r / 10)
+    .attr("stroke-width", r / 15)
     .selectAll("line")
     .data(links_data)
     .enter().append(lineType)

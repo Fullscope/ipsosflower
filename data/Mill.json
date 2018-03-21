@@ -1,0 +1,1993 @@
+{
+  "graph": [{
+    "nodeShapes": true,
+    "nodeSizes": false,
+    "linkColors": true,
+    "fastGraph": false
+  }],
+  "links_data": [
+	{
+		"source": 693,
+		"target": 63,
+		"type": "tension"
+	},
+	{
+		"source": 82,
+		"target": 63,
+		"type": "tension"
+	},
+	{
+		"source": 76,
+		"target": 63,
+		"type": "tension"
+	},
+	{
+		"source": 78,
+		"target": 63,
+		"type": "tension"
+	},
+	{
+		"source": 77,
+		"target": 65,
+		"type": "tension"
+	},
+	{
+		"source": 68,
+		"target": 65,
+		"type": "tension"
+	},
+	{
+		"source": 67,
+		"target": 65,
+		"type": "tension"
+	},
+	{
+		"source": 70,
+		"target": 66,
+		"type": "tension"
+	},
+	{
+		"source": 79,
+		"target": 66,
+		"type": "tension"
+	},
+	{
+		"source": 75,
+		"target": 66,
+		"type": "tension"
+	},
+	{
+		"source": 62,
+		"target": 66,
+		"type": "tension"
+	},
+	{
+		"source": 69,
+		"target": 67,
+		"type": "tension"
+	},
+	{
+		"source": 68,
+		"target": 67,
+		"type": "tension"
+	},
+	{
+		"source": 86,
+		"target": 68,
+		"type": "tension"
+	},
+	{
+		"source": 77,
+		"target": 68,
+		"type": "tension"
+	},
+	{
+		"source": 81,
+		"target": 68,
+		"type": "tension"
+	},
+	{
+		"source": 74,
+		"target": 68,
+		"type": "tension"
+	},
+	{
+		"source": 219,
+		"target": 76,
+		"type": "tension"
+	},
+	{
+		"source": 218,
+		"target": 76,
+		"type": "tension"
+	},
+	{
+		"source": 80,
+		"target": 79,
+		"type": "similar"
+	},
+	{
+		"source": 130,
+		"target": 83,
+		"type": "tension"
+	},
+	{
+		"source": 131,
+		"target": 83,
+		"type": "tension"
+	},
+	{
+		"source": 88,
+		"target": 83,
+		"type": "tension"
+	},
+	{
+		"source": 85,
+		"target": 83,
+		"type": "tension"
+	},
+	{
+		"source": 88,
+		"target": 84,
+		"type": "tension"
+	},
+	{
+		"source": 83,
+		"target": 84,
+		"type": "tension"
+	},
+	{
+		"source": 85,
+		"target": 84,
+		"type": "tension"
+	},
+	{
+		"source": 88,
+		"target": 85,
+		"type": "tension"
+	},
+	{
+		"source": 87,
+		"target": 85,
+		"type": "tension"
+	},
+	{
+		"source": 138,
+		"target": 86,
+		"type": "tension"
+	},
+	{
+		"source": 73,
+		"target": 87,
+		"type": "inspired_by"
+	},
+	{
+		"source": 182,
+		"target": 87,
+		"type": "tension"
+	},
+	{
+		"source": 135,
+		"target": 87,
+		"type": "tension"
+	},
+	{
+		"source": 192,
+		"target": 87,
+		"type": "tension"
+	},
+	{
+		"source": 191,
+		"target": 87,
+		"type": "tension"
+	},
+	{
+		"source": 190,
+		"target": 87,
+		"type": "tension"
+	},
+	{
+		"source": 189,
+		"target": 87,
+		"type": "tension"
+	},
+	{
+		"source": 188,
+		"target": 87,
+		"type": "tension"
+	},
+	{
+		"source": 73,
+		"target": 88,
+		"type": "inspired_by"
+	},
+	{
+		"source": 212,
+		"target": 88,
+		"type": "tension"
+	},
+	{
+		"source": 266,
+		"target": 88,
+		"type": "tension"
+	},
+	{
+		"source": 269,
+		"target": 88,
+		"type": "tension"
+	},
+	{
+		"source": 202,
+		"target": 88,
+		"type": "tension"
+	},
+	{
+		"source": 193,
+		"target": 88,
+		"type": "tension"
+	},
+	{
+		"source": 183,
+		"target": 88,
+		"type": "tension"
+	},
+	{
+		"source": 181,
+		"target": 88,
+		"type": "tension"
+	},
+	{
+		"source": 130,
+		"target": 88,
+		"type": "tension"
+	},
+	{
+		"source": 132,
+		"target": 88,
+		"type": "tension"
+	},
+	{
+		"source": 124,
+		"target": 88,
+		"type": "tension"
+	},
+	{
+		"source": 115,
+		"target": 88,
+		"type": "tension"
+	},
+	{
+		"source": 94,
+		"target": 88,
+		"type": "tension"
+	},
+	{
+		"source": 73,
+		"target": 89,
+		"type": "inspired_by"
+	},
+	{
+		"source": 263,
+		"target": 89,
+		"type": "tension"
+	},
+	{
+		"source": 264,
+		"target": 89,
+		"type": "tension"
+	},
+	{
+		"source": 265,
+		"target": 89,
+		"type": "tension"
+	},
+	{
+		"source": 220,
+		"target": 89,
+		"type": "tension"
+	},
+	{
+		"source": 206,
+		"target": 89,
+		"type": "tension"
+	},
+	{
+		"source": 200,
+		"target": 89,
+		"type": "tension"
+	},
+	{
+		"source": 201,
+		"target": 89,
+		"type": "tension"
+	},
+	{
+		"source": 197,
+		"target": 89,
+		"type": "tension"
+	},
+	{
+		"source": 73,
+		"target": 90,
+		"type": "inspired_by"
+	},
+	{
+		"source": 612,
+		"target": 90,
+		"type": "tension"
+	},
+	{
+		"source": 271,
+		"target": 90,
+		"type": "tension"
+	},
+	{
+		"source": 202,
+		"target": 90,
+		"type": "tension"
+	},
+	{
+		"source": 196,
+		"target": 90,
+		"type": "tension"
+	},
+	{
+		"source": 62,
+		"target": 90,
+		"type": "tension"
+	},
+	{
+		"source": 63,
+		"target": 90,
+		"type": "tension"
+	},
+	{
+		"source": 73,
+		"target": 91,
+		"type": "inspired_by"
+	},
+	{
+		"source": 611,
+		"target": 91,
+		"type": "tension"
+	},
+	{
+		"source": 275,
+		"target": 91,
+		"type": "tension"
+	},
+	{
+		"source": 221,
+		"target": 91,
+		"type": "tension"
+	},
+	{
+		"source": 173,
+		"target": 91,
+		"type": "tension"
+	},
+	{
+		"source": 160,
+		"target": 91,
+		"type": "tension"
+	},
+	{
+		"source": 151,
+		"target": 91,
+		"type": "tension"
+	},
+	{
+		"source": 86,
+		"target": 91,
+		"type": "tension"
+	},
+	{
+		"source": 73,
+		"target": 92,
+		"type": "inspired_by"
+	},
+	{
+		"source": 610,
+		"target": 92,
+		"type": "tension"
+	},
+	{
+		"source": 89,
+		"target": 92,
+		"type": "tension"
+	},
+	{
+		"source": 88,
+		"target": 92,
+		"type": "tension"
+	},
+	{
+		"source": 90,
+		"target": 92,
+		"type": "tension"
+	},
+	{
+		"source": 86,
+		"target": 92,
+		"type": "tension"
+	},
+	{
+		"source": 67,
+		"target": 92,
+		"type": "tension"
+	},
+	{
+		"source": 65,
+		"target": 92,
+		"type": "tension"
+	},
+	{
+		"source": 68,
+		"target": 92,
+		"type": "tension"
+	},
+	{
+		"source": 81,
+		"target": 92,
+		"type": "tension"
+	},
+	{
+		"source": 88,
+		"target": 94,
+		"type": "tension"
+	},
+	{
+		"source": 262,
+		"target": 94,
+		"type": "tension"
+	},
+	{
+		"source": 116,
+		"target": 94,
+		"type": "tension"
+	},
+	{
+		"source": 119,
+		"target": 94,
+		"type": "tension"
+	},
+	{
+		"source": 108,
+		"target": 94,
+		"type": "tension"
+	},
+	{
+		"source": 116,
+		"target": 108,
+		"type": "tension"
+	},
+	{
+		"source": 119,
+		"target": 108,
+		"type": "tension"
+	},
+	{
+		"source": 129,
+		"target": 115,
+		"type": "tension"
+	},
+	{
+		"source": 128,
+		"target": 115,
+		"type": "tension"
+	},
+	{
+		"source": 117,
+		"target": 115,
+		"type": "tension"
+	},
+	{
+		"source": 118,
+		"target": 115,
+		"type": "tension"
+	},
+	{
+		"source": 125,
+		"target": 115,
+		"type": "tension"
+	},
+	{
+		"source": 119,
+		"target": 116,
+		"type": "tension"
+	},
+	{
+		"source": 275,
+		"target": 118,
+		"type": "tension"
+	},
+	{
+		"source": 88,
+		"target": 119,
+		"type": "tension"
+	},
+	{
+		"source": 261,
+		"target": 124,
+		"type": "tension"
+	},
+	{
+		"source": 261,
+		"target": 124,
+		"type": "tension"
+	},
+	{
+		"source": 262,
+		"target": 124,
+		"type": "tension"
+	},
+	{
+		"source": 129,
+		"target": 125,
+		"type": "tension"
+	},
+	{
+		"source": 128,
+		"target": 125,
+		"type": "tension"
+	},
+	{
+		"source": 129,
+		"target": 128,
+		"type": "tension"
+	},
+	{
+		"source": 131,
+		"target": 130,
+		"type": "tension"
+	},
+	{
+		"source": 132,
+		"target": 130,
+		"type": "tension"
+	},
+	{
+		"source": 132,
+		"target": 131,
+		"type": "tension"
+	},
+	{
+		"source": 133,
+		"target": 134,
+		"type": "tension"
+	},
+	{
+		"source": 135,
+		"target": 136,
+		"type": "similar"
+	},
+	{
+		"source": 135,
+		"target": 137,
+		"type": "tension"
+	},
+	{
+		"source": 148,
+		"target": 138,
+		"type": "tension"
+	},
+	{
+		"source": 265,
+		"target": 148,
+		"type": "tension"
+	},
+	{
+		"source": 166,
+		"target": 148,
+		"type": "similar"
+	},
+	{
+		"source": 154,
+		"target": 148,
+		"type": "tension"
+	},
+	{
+		"source": 251,
+		"target": 151,
+		"type": "similar"
+	},
+	{
+		"source": 154,
+		"target": 151,
+		"type": "tension"
+	},
+	{
+		"source": 166,
+		"target": 154,
+		"type": "tension"
+	},
+	{
+		"source": 163,
+		"target": 154,
+		"type": "similar"
+	},
+	{
+		"source": 166,
+		"target": 160,
+		"type": "tension"
+	},
+	{
+		"source": 163,
+		"target": 160,
+		"type": "tension"
+	},
+	{
+		"source": 611,
+		"target": 163,
+		"type": "tension"
+	},
+	{
+		"source": 166,
+		"target": 163,
+		"type": "tension"
+	},
+	{
+		"source": 178,
+		"target": 173,
+		"type": "tension"
+	},
+	{
+		"source": 175,
+		"target": 173,
+		"type": "tension"
+	},
+	{
+		"source": 174,
+		"target": 173,
+		"type": "tension"
+	},
+	{
+		"source": 175,
+		"target": 174,
+		"type": "tension"
+	},
+	{
+		"source": 178,
+		"target": 175,
+		"type": "tension"
+	},
+	{
+		"source": 185,
+		"target": 183,
+		"type": "tension"
+	},
+	{
+		"source": 184,
+		"target": 183,
+		"type": "tension"
+	},
+	{
+		"source": 187,
+		"target": 183,
+		"type": "tension"
+	},
+	{
+		"source": 186,
+		"target": 183,
+		"type": "tension"
+	},
+	{
+		"source": 73,
+		"target": 186,
+		"type": "inspired_by"
+	},
+	{
+		"source": 661,
+		"target": 188,
+		"type": "tension"
+	},
+	{
+		"source": 189,
+		"target": 188,
+		"type": "similar"
+	},
+	{
+		"source": 329,
+		"target": 188,
+		"type": "tension"
+	},
+	{
+		"source": 327,
+		"target": 188,
+		"type": "tension"
+	},
+	{
+		"source": 328,
+		"target": 188,
+		"type": "tension"
+	},
+	{
+		"source": 326,
+		"target": 188,
+		"type": "tension"
+	},
+	{
+		"source": 664,
+		"target": 189,
+		"type": "tension"
+	},
+	{
+		"source": 451,
+		"target": 189,
+		"type": "tension"
+	},
+	{
+		"source": 450,
+		"target": 189,
+		"type": "tension"
+	},
+	{
+		"source": 453,
+		"target": 190,
+		"type": "tension"
+	},
+	{
+		"source": 454,
+		"target": 190,
+		"type": "tension"
+	},
+	{
+		"source": 452,
+		"target": 190,
+		"type": "tension"
+	},
+	{
+		"source": 195,
+		"target": 190,
+		"type": "tension"
+	},
+	{
+		"source": 667,
+		"target": 191,
+		"type": "tension"
+	},
+	{
+		"source": 670,
+		"target": 191,
+		"type": "tension"
+	},
+	{
+		"source": 188,
+		"target": 191,
+		"type": "tension"
+	},
+	{
+		"source": 656,
+		"target": 192,
+		"type": "tension"
+	},
+	{
+		"source": 653,
+		"target": 192,
+		"type": "tension"
+	},
+	{
+		"source": 682,
+		"target": 193,
+		"type": "tension"
+	},
+	{
+		"source": 196,
+		"target": 193,
+		"type": "tension"
+	},
+	{
+		"source": 194,
+		"target": 193,
+		"type": "tension"
+	},
+	{
+		"source": 195,
+		"target": 193,
+		"type": "tension"
+	},
+	{
+		"source": 199,
+		"target": 193,
+		"type": "tension"
+	},
+	{
+		"source": 196,
+		"target": 194,
+		"type": "tension"
+	},
+	{
+		"source": 199,
+		"target": 194,
+		"type": "tension"
+	},
+	{
+		"source": 196,
+		"target": 195,
+		"type": "tension"
+	},
+	{
+		"source": 199,
+		"target": 195,
+		"type": "similar"
+	},
+	{
+		"source": 199,
+		"target": 196,
+		"type": "similar"
+	},
+	{
+		"source": 198,
+		"target": 197,
+		"type": "tension"
+	},
+	{
+		"source": 677,
+		"target": 199,
+		"type": "tension"
+	},
+	{
+		"source": 674,
+		"target": 199,
+		"type": "tension"
+	},
+	{
+		"source": 671,
+		"target": 199,
+		"type": "tension"
+	},
+	{
+		"source": 264,
+		"target": 200,
+		"type": "tension"
+	},
+	{
+		"source": 205,
+		"target": 201,
+		"type": "tension"
+	},
+	{
+		"source": 203,
+		"target": 201,
+		"type": "tension"
+	},
+	{
+		"source": 690,
+		"target": 202,
+		"type": "tension"
+	},
+	{
+		"source": 208,
+		"target": 202,
+		"type": "tension"
+	},
+	{
+		"source": 209,
+		"target": 202,
+		"type": "similar"
+	},
+	{
+		"source": 204,
+		"target": 202,
+		"type": "tension"
+	},
+	{
+		"source": 208,
+		"target": 204,
+		"type": "tension"
+	},
+	{
+		"source": 209,
+		"target": 204,
+		"type": "similar"
+	},
+	{
+		"source": 198,
+		"target": 205,
+		"type": "tension"
+	},
+	{
+		"source": 207,
+		"target": 206,
+		"type": "tension"
+	},
+	{
+		"source": 690,
+		"target": 208,
+		"type": "tension"
+	},
+	{
+		"source": 209,
+		"target": 208,
+		"type": "similar"
+	},
+	{
+		"source": 88,
+		"target": 211,
+		"type": "tension"
+	},
+	{
+		"source": 215,
+		"target": 211,
+		"type": "tension"
+	},
+	{
+		"source": 214,
+		"target": 211,
+		"type": "tension"
+	},
+	{
+		"source": 216,
+		"target": 211,
+		"type": "tension"
+	},
+	{
+		"source": 213,
+		"target": 212,
+		"type": "tension"
+	},
+	{
+		"source": 217,
+		"target": 213,
+		"type": "tension"
+	},
+	{
+		"source": 266,
+		"target": 215,
+		"type": "tension"
+	},
+	{
+		"source": 216,
+		"target": 215,
+		"type": "tension"
+	},
+	{
+		"source": 216,
+		"target": 217,
+		"type": "tension"
+	},
+	{
+		"source": 263,
+		"target": 220,
+		"type": "tension"
+	},
+	{
+		"source": 244,
+		"target": 221,
+		"type": "tension"
+	},
+	{
+		"source": 254,
+		"target": 221,
+		"type": "tension"
+	},
+	{
+		"source": 231,
+		"target": 221,
+		"type": "tension"
+	},
+	{
+		"source": 241,
+		"target": 221,
+		"type": "tension"
+	},
+	{
+		"source": 234,
+		"target": 221,
+		"type": "tension"
+	},
+	{
+		"source": 224,
+		"target": 221,
+		"type": "tension"
+	},
+	{
+		"source": 244,
+		"target": 224,
+		"type": "tension"
+	},
+	{
+		"source": 254,
+		"target": 224,
+		"type": "tension"
+	},
+	{
+		"source": 231,
+		"target": 224,
+		"type": "similar"
+	},
+	{
+		"source": 234,
+		"target": 224,
+		"type": "tension"
+	},
+	{
+		"source": 234,
+		"target": 231,
+		"type": "similar"
+	},
+	{
+		"source": 244,
+		"target": 234,
+		"type": "tension"
+	},
+	{
+		"source": 254,
+		"target": 234,
+		"type": "tension"
+	},
+	{
+		"source": 244,
+		"target": 241,
+		"type": "tension"
+	},
+	{
+		"source": 251,
+		"target": 241,
+		"type": "tension"
+	},
+	{
+		"source": 254,
+		"target": 241,
+		"type": "tension"
+	},
+	{
+		"source": 251,
+		"target": 244,
+		"type": "tension"
+	},
+	{
+		"source": 254,
+		"target": 244,
+		"type": "tension"
+	},
+	{
+		"source": 254,
+		"target": 251,
+		"type": "tension"
+	},
+	{
+		"source": 89,
+		"target": 266,
+		"type": "tension"
+	},
+	{
+		"source": 268,
+		"target": 266,
+		"type": "similar"
+	},
+	{
+		"source": 267,
+		"target": 266,
+		"type": "tension"
+	},
+	{
+		"source": 270,
+		"target": 269,
+		"type": "tension"
+	},
+	{
+		"source": 273,
+		"target": 271,
+		"type": "tension"
+	},
+	{
+		"source": 272,
+		"target": 271,
+		"type": "similar"
+	},
+	{
+		"source": 273,
+		"target": 272,
+		"type": "tension"
+	},
+	{
+		"source": 276,
+		"target": 274,
+		"type": "tension"
+	},
+	{
+		"source": 275,
+		"target": 274,
+		"type": "tension"
+	},
+	{
+		"source": 661,
+		"target": 326,
+		"type": "tension"
+	},
+	{
+		"source": 664,
+		"target": 450,
+		"type": "tension"
+	},
+	{
+		"source": 451,
+		"target": 450,
+		"type": "tension"
+	},
+	{
+		"source": 664,
+		"target": 451,
+		"type": "tension"
+	},
+	{
+		"source": 621,
+		"target": 612,
+		"type": "tension"
+	},
+	{
+		"source": 626,
+		"target": 612,
+		"type": "tension"
+	},
+	{
+		"source": 613,
+		"target": 612,
+		"type": "tension"
+	},
+	{
+		"source": 616,
+		"target": 612,
+		"type": "tension"
+	},
+	{
+		"source": 620,
+		"target": 612,
+		"type": "tension"
+	},
+	{
+		"source": 205,
+		"target": 682,
+		"type": "tension"
+	},
+	{
+		"source": 760,
+		"target": 733,
+		"type": "inspired_by"
+	},
+	{
+		"source": 719,
+		"target": 733,
+		"type": "tension"
+	},
+	{
+		"source": 719,
+		"target": 760,
+		"type": "tension"
+	},
+	{
+		"source": 825,
+		"target": 818,
+		"type": "inspired_by"
+	},
+	{
+		"source": 836,
+		"target": 818,
+		"type": "inspired_by"
+	},
+	{
+		"source": 831,
+		"target": 818,
+		"type": "inspired_by"
+	},
+	{
+		"source": 818,
+		"target": 819,
+		"type": "inspired_by"
+	}
+],
+  "nodes_data": [
+	{
+		"id": 62,
+		"types": "Reality",
+		"title": "Millennials are less likely to vote"
+	},
+	{
+		"id": 63,
+		"types": "Reality",
+		"title": "Millennials are not political party people"
+	},
+	{
+		"id": 65,
+		"types": "Myth",
+		"title": "Millennials are young"
+	},
+	{
+		"id": 66,
+		"types": "Snapshot",
+		"title": "Millennials currently vote less than older cohorts"
+	},
+	{
+		"id": 67,
+		"types": "Myth",
+		"title": "Millennials are dwarfed by the much larger Baby Boomers"
+	},
+	{
+		"id": 68,
+		"types": "Myth",
+		"title": "We all know exactly who Millennials are"
+	},
+	{
+		"id": 69,
+		"types": "Snapshot",
+		"title": "Millennials make up 36% of the adult population worldwide"
+	},
+	{
+		"id": 70,
+		"types": "Long-Term Trend",
+		"title": "Millennial voting turnout is also connection to a long-term cultural decline in voting"
+	},
+	{
+		"id": 73,
+		"types": "observation",
+		"title": "Welcome to the Millennials Insight Cloud "
+	},
+	{
+		"id": 74,
+		"types": "Snapshot",
+		"title": "When does the Millennial generation begin?"
+	},
+	{
+		"id": 75,
+		"types": "Long-Term Trend",
+		"title": "Voting is connected to life stage - younger people vote less than older people "
+	},
+	{
+		"id": 76,
+		"types": "Myth",
+		"title": "Millennials are closet conservatives"
+	},
+	{
+		"id": 77,
+		"types": "Snapshot",
+		"title": "The Millennials represent a wide range of the population"
+	},
+	{
+		"id": 78,
+		"types": "Long-Term Trend",
+		"title": "There is a clear generational effect in supporting a political party in the UK"
+	},
+	{
+		"id": 79,
+		"types": "Long-Term Trend",
+		"title": "Lower Millennial voting turnout is also connected to their cohort "
+	},
+	{
+		"id": 80,
+		"types": "Snapshot",
+		"title": "Voting less as a cohort is not a Millennial phenomenon - Generation X were the young adults to start voting less than the rest of Britain"
+	},
+	{
+		"id": 81,
+		"types": "Reality",
+		"title": "Millennials are the most derided generation"
+	},
+	{
+		"id": 82,
+		"types": "Long-Term Trend",
+		"title": "There's a strong generational decline in party support in France "
+	},
+	{
+		"id": 83,
+		"types": "Part-Truth",
+		"title": "Millennials aren't choosing to get married"
+	},
+	{
+		"id": 84,
+		"types": "Part-Truth",
+		"title": "Fewer Millennials are having children"
+	},
+	{
+		"id": 85,
+		"types": "Part-Truth",
+		"title": "Millennials are having less sex"
+	},
+	{
+		"id": 86,
+		"types": "Snapshot",
+		"title": "We can group Millennials into Digital Natives, Digital Guinea Pigs and Original Millennials "
+	},
+	{
+		"id": 87,
+		"types": "observation",
+		"title": "HEALTH AND WELLNESS: Millennial good health is not a trend - it's probably just their youth "
+	},
+	{
+		"id": 88,
+		"types": "observation",
+		"title": "Household and living"
+	},
+	{
+		"id": 89,
+		"types": "observation",
+		"title": "Brands and Marketing"
+	},
+	{
+		"id": 90,
+		"types": "observation",
+		"title": "Social and Political Attitudes"
+	},
+	{
+		"id": 91,
+		"types": "observation",
+		"title": "Technology and Media"
+	},
+	{
+		"id": 92,
+		"types": "observation",
+		"title": "Who are Millennials"
+	},
+	{
+		"id": 94,
+		"types": "Reality",
+		"title": "Millennials are the first generation to be financially worse off than their parents"
+	},
+	{
+		"id": 108,
+		"types": "Snapshot",
+		"title": "Millennials' disposable income has shrunk"
+	},
+	{
+		"id": 115,
+		"types": "Myth",
+		"title": "Millennials are lazy workers "
+	},
+	{
+		"id": 116,
+		"types": "Snapshot",
+		"title": "The squeeze on take home pay cannot just be attributed to the recession"
+	},
+	{
+		"id": 117,
+		"types": "Reality",
+		"title": "Weekly working hours have reduced over time"
+	},
+	{
+		"id": 118,
+		"types": "Long-Term Trend",
+		"title": "Working longer hours is not related to improved productivity "
+	},
+	{
+		"id": 119,
+		"types": "Snapshot",
+		"title": "The fiscal context generally is tougher for Millennials"
+	},
+	{
+		"id": 124,
+		"types": "Reality",
+		"title": "Millennials feel worse off and are less optimistic than their parents"
+	},
+	{
+		"id": 125,
+		"types": "Myth",
+		"title": "Millennials job-hop more than previous generations"
+	},
+	{
+		"id": 128,
+		"types": "Myth",
+		"title": "Millennials are not motivated to work "
+	},
+	{
+		"id": 129,
+		"types": "Myth",
+		"title": "Millennials: A new generation of employees, a new set of expectations "
+	},
+	{
+		"id": 130,
+		"types": "Snapshot",
+		"title": "Difference in marriage rates between generations"
+	},
+	{
+		"id": 131,
+		"types": "Snapshot",
+		"title": "Marital status in the UK"
+	},
+	{
+		"id": 132,
+		"types": "Snapshot",
+		"title": "Factors contributing to lower marriage rates "
+	},
+	{
+		"id": 133,
+		"types": "Long-Term Trend",
+		"title": "Millennials having less children? Not sure yet"
+	},
+	{
+		"id": 134,
+		"types": "Long-Term Trend",
+		"title": "Continued pick up in older births?"
+	},
+	{
+		"id": 135,
+		"types": "Part-Truth",
+		"title": "Millennials stay a virgin for longer"
+	},
+	{
+		"id": 136,
+		"types": "Snapshot",
+		"title": "Millennials are having sex at a younger age than the previous generation"
+	},
+	{
+		"id": 137,
+		"types": "Snapshot",
+		"title": "Millennials are more likely to have multiple sexual partners"
+	},
+	{
+		"id": 138,
+		"types": "Myth",
+		"title": "All Millennials are digital natives and all digital natives are Millennials"
+	},
+	{
+		"id": 148,
+		"types": "Snapshot",
+		"title": "Older generations do not necessarily have notably different patterns in their technology usage"
+	},
+	{
+		"id": 151,
+		"types": "Myth",
+		"title": "Millennials are uniquely “Mobile first”"
+	},
+	{
+		"id": 154,
+		"types": "Snapshot",
+		"title": "Generation X and Millennials are both highly mobile"
+	},
+	{
+		"id": 160,
+		"types": "Reality",
+		"title": "Millennials are online more of the time than other generations"
+	},
+	{
+		"id": 163,
+		"types": "Snapshot",
+		"title": "Millennials spend a lot more time on their smartphones than older generations"
+	},
+	{
+		"id": 166,
+		"types": "Snapshot",
+		"title": "Millennials aren't so far ahead of other generations for overall 'device' use"
+	},
+	{
+		"id": 173,
+		"types": "Myth",
+		"title": "Facebook is dead to Millennials"
+	},
+	{
+		"id": 174,
+		"types": "Snapshot",
+		"title": "Millennials are more likely than others to visit Facebook"
+	},
+	{
+		"id": 175,
+		"types": "Snapshot",
+		"title": "The age profile of Facebook users is less skewed towards Millennials than those of other social networks"
+	},
+	{
+		"id": 178,
+		"types": "Snapshot",
+		"title": "Social media usage varies greatly within the Millennial cohort"
+	},
+	{
+		"id": 181,
+		"types": "Reality",
+		"title": "Millennials are the gayest generation ever"
+	},
+	{
+		"id": 182,
+		"types": "Myth",
+		"title": "Porn addiction is threatening an entire generation"
+	},
+	{
+		"id": 183,
+		"types": "Part-Truth",
+		"title": "Millennials are the most educated generation"
+	},
+	{
+		"id": 184,
+		"types": "Snapshot",
+		"title": "Many emerging markets have seen an explosion in education"
+	},
+	{
+		"id": 185,
+		"types": "Long-Term Trend",
+		"title": "Millennials are more educated in some established markets (for example Britain and Germany)"
+	},
+	{
+		"id": 186,
+		"types": "observation",
+		"title": "Education"
+	},
+	{
+		"id": 187,
+		"types": "Long-Term Trend",
+		"title": "Not all established markets are experiencing surges in education levels (for example the US)"
+	},
+	{
+		"id": 188,
+		"types": "Myth",
+		"title": "For Millennials, wellness is a daily, active pursuit"
+	},
+	{
+		"id": 189,
+		"types": "Part-Truth",
+		"title": "Millennials smoke more than other generations"
+	},
+	{
+		"id": 190,
+		"types": "Reality",
+		"title": "Millennials are shunning alcohol at unprecedented levels"
+	},
+	{
+		"id": 191,
+		"types": "Myth",
+		"title": "Millennials are turning to recreational drug use"
+	},
+	{
+		"id": 192,
+		"types": "Myth",
+		"title": "Millennials have the worst mental health"
+	},
+	{
+		"id": 193,
+		"types": "Myth",
+		"title": "Millennials don’t trust institutions"
+	},
+	{
+		"id": 194,
+		"types": "Long-Term Trend",
+		"title": "The story of trust has a far wider reach than just Millennials"
+	},
+	{
+		"id": 195,
+		"types": "Snapshot",
+		"title": "Millennials in the US and UK are more likely to trust their government"
+	},
+	{
+		"id": 196,
+		"types": "Snapshot",
+		"title": "Millennials are no less likely to trust big institutions and experts like the police, judges and economists"
+	},
+	{
+		"id": 197,
+		"types": "Myth",
+		"title": "BRANDS: Millennials are still attracted to you "
+	},
+	{
+		"id": 198,
+		"types": "Snapshot",
+		"title": "Millennials in different markets are not significantly more or less likely to be attracted to brands than older age groups "
+	},
+	{
+		"id": 199,
+		"types": "Reality",
+		"title": "Millennials don't trust others"
+	},
+	{
+		"id": 200,
+		"types": "Snapshot",
+		"title": "Millennials are more positive about brands than Baby Boomers"
+	},
+	{
+		"id": 201,
+		"types": "Myth",
+		"title": "Millennials are less brand loyal than other generations"
+	},
+	{
+		"id": 202,
+		"types": "Part-Truth",
+		"title": "Millennials are the least religious generation yet"
+	},
+	{
+		"id": 203,
+		"types": "Snapshot",
+		"title": "Brand loyalty could be more connected to life stage than a consumer's cohort. "
+	},
+	{
+		"id": 204,
+		"types": "Long-Term Trend",
+		"title": "There is a generational decline in religious identity in the West "
+	},
+	{
+		"id": 205,
+		"types": "Long-Term Trend",
+		"title": "There's no real difference in brand trust between generations"
+	},
+	{
+		"id": 206,
+		"types": "Myth",
+		"title": "Brand ethics are key to winning over Millennials"
+	},
+	{
+		"id": 207,
+		"types": "Long-Term Trend",
+		"title": "Valuing ethical brands doesn't translate into ethical purchasing"
+	},
+	{
+		"id": 208,
+		"types": "Long-Term Trend",
+		"title": "Practising religion is not on the decline in Britain "
+	},
+	{
+		"id": 209,
+		"types": "Long-Term Trend",
+		"title": "Religion in emerging markets is on the rise"
+	},
+	{
+		"id": 211,
+		"types": "Reality",
+		"title": "Millennials are frozen out of the housing market"
+	},
+	{
+		"id": 212,
+		"types": "observation",
+		"title": "Housing"
+	},
+	{
+		"id": 213,
+		"types": "Reality",
+		"title": "Millennials are living at home at a record rate"
+	},
+	{
+		"id": 214,
+		"types": "Long-Term Trend",
+		"title": "There are declining rates of home-ownership in both the US and the UK"
+	},
+	{
+		"id": 215,
+		"types": "Snapshot",
+		"title": "There is a decline in home-ownership among younger adults in many countries"
+	},
+	{
+		"id": 216,
+		"types": "Snapshot",
+		"title": "Some countries attach less importance to home-ownership"
+	},
+	{
+		"id": 217,
+		"types": "Snapshot",
+		"title": "Both the US and UK have seen massive increases in the proportion of young people living with parents"
+	},
+	{
+		"id": 218,
+		"types": "Snapshot",
+		"title": "Millennials across Europe are more likely to identify as left-wing"
+	},
+	{
+		"id": 219,
+		"types": "Snapshot",
+		"title": "Millennials have surprisingly right-wing opinions on a number of issues."
+	},
+	{
+		"id": 220,
+		"types": "Myth",
+		"title": "Millennials don't trust or respond to advertising"
+	},
+	{
+		"id": 221,
+		"types": "Reality",
+		"title": "Millennials are watching less live TV"
+	},
+	{
+		"id": 224,
+		"types": "Snapshot",
+		"title": "In the UK, live TV watching dropped sharply between 2014 and 2015"
+	},
+	{
+		"id": 231,
+		"types": "Snapshot",
+		"title": "In the US, Millennials and Generation X are similar in their TV viewing habits, while differing from older generations"
+	},
+	{
+		"id": 234,
+		"types": "Snapshot",
+		"title": "There has been a sharp divergence in live TV watching behaviour by cohort between 2005 and 2015"
+	},
+	{
+		"id": 241,
+		"types": "Reality",
+		"title": "Millennials are hooked on streaming"
+	},
+	{
+		"id": 244,
+		"types": "Snapshot",
+		"title": "Preference for different models of viewing content varies by age"
+	},
+	{
+		"id": 251,
+		"types": "Snapshot",
+		"title": "Rather than simply being early adopters, Millennials may have different attitudes to ownership of physical media"
+	},
+	{
+		"id": 254,
+		"types": "Snapshot",
+		"title": "Millennials are more likely to watch streamed TV than older generations"
+	},
+	{
+		"id": 261,
+		"types": "Snapshot",
+		"title": "Half of Millennials place themselves in the 'low income' bracket"
+	},
+	{
+		"id": 262,
+		"types": "Snapshot",
+		"title": "Millennials are pessimistic about their life chances compared to their parents"
+	},
+	{
+		"id": 263,
+		"types": "Part-Truth",
+		"title": "Millennials' purchases are more influenced by recommendations than other generations"
+	},
+	{
+		"id": 264,
+		"types": "Part-Truth",
+		"title": "Millennials are more likely to complain"
+	},
+	{
+		"id": 265,
+		"types": "Myth",
+		"title": "ONLINE SHOPPING - it's the richer, more grown up Generation X buying more online"
+	},
+	{
+		"id": 266,
+		"types": "Reality",
+		"title": "Millennials are more materialistic than other generations"
+	},
+	{
+		"id": 267,
+		"types": "Snapshot",
+		"title": "Millennials consider themselves materialistic"
+	},
+	{
+		"id": 268,
+		"types": "Snapshot",
+		"title": "The majority of Millennials do not want a lot of expensive things and they don't think it's important to be rich"
+	},
+	{
+		"id": 269,
+		"types": "Reality",
+		"title": "Millennials are not saving enough for retirement"
+	},
+	{
+		"id": 270,
+		"types": "Snapshot",
+		"title": "Only 1 in 10 Millennials think they will be working past the age of 65"
+	},
+	{
+		"id": 271,
+		"types": "Myth",
+		"title": "Young people are more narcissistic and selfish than ever"
+	},
+	{
+		"id": 272,
+		"types": "Snapshot",
+		"title": "There is no generational pattern to putting yourself before others"
+	},
+	{
+		"id": 273,
+		"types": "Long-Term Trend",
+		"title": "Millennials volunteer as much as other generations did at the same age"
+	},
+	{
+		"id": 274,
+		"types": "Myth",
+		"title": "The average Millennial attention span is shorter than a goldfish"
+	},
+	{
+		"id": 275,
+		"types": "Snapshot",
+		"title": "The top factors contributing to attention span are media consumption, social media use, technology adoption rate and multi-screening"
+	},
+	{
+		"id": 276,
+		"types": "Snapshot",
+		"title": "Attention span is notoriously difficult to measure"
+	},
+	{
+		"id": 326,
+		"types": "Long-Term Trend",
+		"title": "Millennials are the first young generation where over half are overweight in England"
+	},
+	{
+		"id": 327,
+		"types": "Long-Term Trend",
+		"title": "Millennials in the UK are more active today than Generation X were at an equivalent age"
+	},
+	{
+		"id": 328,
+		"types": "Long-Term Trend",
+		"title": "HEALTHY EATING: How sweet are Millennials?"
+	},
+	{
+		"id": 329,
+		"types": "Snapshot",
+		"title": "Millennials are more likely to pile in junk food than Generation X or Baby Boomers"
+	},
+	{
+		"id": 450,
+		"types": "Long-Term Trend",
+		"title": "Smoking rates in the US and England have fallen significantly"
+	},
+	{
+		"id": 451,
+		"types": "Long-Term Trend",
+		"title": "Millennials in the UK are giving up smoking at a slower rate than previous generations"
+	},
+	{
+		"id": 452,
+		"types": "Long-Term Trend",
+		"title": "Millennials are drinking alcohol less regularly than older generations "
+	},
+	{
+		"id": 453,
+		"types": "Snapshot",
+		"title": "Millennials are drinking less in terms of overall volume of alcohol"
+	},
+	{
+		"id": 454,
+		"types": "Snapshot",
+		"title": "When Millennials do drink, they tend to drink heavily"
+	},
+	{
+		"id": 610,
+		"types": "Reality",
+		"title": "Millennials have (some) unique characteristics"
+	},
+	{
+		"id": 611,
+		"types": "Myth",
+		"title": "Millennials are uniquely 'mobile first'"
+	},
+	{
+		"id": 612,
+		"types": "Myth",
+		"title": "Millennials are more socially liberal than other generations"
+	},
+	{
+		"id": 613,
+		"types": "Long-Term Trend",
+		"title": "Period effects impact on attitudes towards gender roles"
+	},
+	{
+		"id": 616,
+		"types": "Long-Term Trend",
+		"title": "Millennial views towards homosexuality vary by country"
+	},
+	{
+		"id": 620,
+		"types": "Long-Term Trend",
+		"title": "There are generational differences in attitudes towards immigration "
+	},
+	{
+		"id": 621,
+		"types": "Long-Term Trend",
+		"title": "Attitudes towards the death penalty have shift over time, due to period effects"
+	},
+	{
+		"id": 626,
+		"types": "Myth",
+		"title": "American Millennials will end the gun control debate"
+	},
+	{
+		"id": 653,
+		"types": "Snapshot",
+		"title": "Baby Boomers in the US are more likely to be depressed "
+	},
+	{
+		"id": 656,
+		"types": "Long-Term Trend",
+		"title": "In the UK, Millennials are just as likely to potentially have a mental disorder as older generations"
+	},
+	{
+		"id": 661,
+		"types": "Long-Term Trend",
+		"title": "US Millennials are slightly less likely to be a healthy weight than Generation X at the same age"
+	},
+	{
+		"id": 664,
+		"types": "Long-Term Trend",
+		"title": "US Millennials are giving up smoking faster than UK Millennials "
+	},
+	{
+		"id": 667,
+		"types": "Snapshot",
+		"title": "In the US, there's no difference in generational drug use"
+	},
+	{
+		"id": 670,
+		"types": "Long-Term Trend",
+		"title": "UK data suggests a significant shift away from drug use among Millennials"
+	},
+	{
+		"id": 671,
+		"types": "Long-Term Trend",
+		"title": "British Millennials are far less trusting of other people than older generations "
+	},
+	{
+		"id": 674,
+		"types": "Long-Term Trend",
+		"title": "Only one in five US Millennials think most people can be trusted"
+	},
+	{
+		"id": 677,
+		"types": "Long-Term Trend",
+		"title": "German Millennials are also less likely to trust other people"
+	},
+	{
+		"id": 682,
+		"types": "Snapshot",
+		"title": "Millennial trust in businesses is generally similar to the national sentiment"
+	},
+	{
+		"id": 690,
+		"types": "Long-Term Trend",
+		"title": "Western Millennials are more likely to identify with non-Christian religions"
+	},
+	{
+		"id": 693,
+		"types": "Long-Term Trend",
+		"title": "US Millennials are less likely to identify as Democrat or Republican"
+	},
+	{
+		"id": 719,
+		"types": "observation",
+		"title": "HOUSING: It's simple! Get a job. Save up. Buy your own place. And eventually meet a rockstar to marry!"
+	},
+	{
+		"id": 733,
+		"types": "Reality",
+		"title": "Millennials are frozen out of the housing market"
+	},
+	{
+		"id": 760,
+		"types": "Reality",
+		"title": "Millennials are living at home at a record rate"
+	},
+	{
+		"id": 818,
+		"types": "observation",
+		"title": "MONEY: Who needs a car where Uber is concerned? I have no money and no possessions but I'm very happy thank you"
+	},
+	{
+		"id": 819,
+		"types": "Reality",
+		"title": "Millennials are the first modern generation to be worse off than their parents"
+	},
+	{
+		"id": 825,
+		"types": "Myths, Realities and Part-Truths",
+		"title": "Millennials feel worse off and less optimistic than their parents"
+	},
+	{
+		"id": 831,
+		"types": "Reality",
+		"title": "Millennials are more materialistic than other generations"
+	},
+	{
+		"id": 836,
+		"types": "Myth",
+		"title": "Millennials are not saving enough for retirement "
+	},
+	{
+		"id": 842,
+		"types": "observation",
+		"title": "WORK: How greatest mythconceptions about Millennials in the workplace are born out of lazy assumptions"
+	}
+  ],
+  "display": [{
+      "colors": [
+        "#FC7375", "#80FFCE", "#F8DD92", "#52197E", "#F8DD92", "#A9C9F3", "#52197E"
+      ]
+    },
+    {
+      "shapes": [
+        "rhombus", "rhombus", "square", "triangle", "triangle", "circle", "star"
+      ]
+    },
+    {
+      "types": [
+        "Myth", "Reality", "Part-Truth", "Emerging Insights", "Snapshot", "Long-Term Trend", "Myths Realities and Part-Truths"
+      ]
+    }
+  ]
+}

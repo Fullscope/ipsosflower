@@ -1,6 +1,6 @@
 {
   "graph": [{
-    "nodeShapes": true,
+    "nodeShapes": false,
     "nodeSizes": true,
     "linkColors": true,
     "fastGraph": false

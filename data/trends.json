@@ -1,7 +1,7 @@
 {
   "graph": [
 		{
-			"nodeShapes": true,
+			"nodeShapes": false,
 			"nodeSizes": false,
 			"linkColors": true,
 			"fastGraph": false

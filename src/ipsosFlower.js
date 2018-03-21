@@ -76,7 +76,7 @@ function getAllUrlParams(url) {
 
   return obj;
 }
-var fileName = getAllUrlParams().filename!=null ? getAllUrlParams().filename : "Mothering.json";
+var fileName = getAllUrlParams().filename!=null ? getAllUrlParams().filename : "Mill.json";
 
 d3.json("data/" + fileName, function(error, graph) {
   //Generic Nodes --- to do replace with MLS data model
@@ -118,15 +118,15 @@ d3.json("data/" + fileName, function(error, graph) {
   simulation
     .force("charge_force", d3.forceManyBody().strength(-r * forceStrengthMultiplier)) //(function(d, i){return i==0 ? -r*15 : -r*8;}))
     .force("center_force", d3.forceCenter(width / 2, height / 2))
-    .force("collide", d3.forceCollide().radius(r + r / 2).iterations(1))
+    .force("collide", d3.forceCollide().radius(r + r / 2).iterations(10))
     .velocityDecay(graphSimV)
     .alphaMin(graphSimAlphaMin)
     .alphaDecay(graphSimAlphaD)
   .force("forcex", d3.forceX(width / 2).strength(function(d) {
-  	return width > height ? width/height*0.005 : height/width*0.02
+  	return width > height ? width/height*0.001 : height/width*0.005
   }))
   .force("forcey", d3.forceY(height / 2).strength(function(d) {
-  	return width > height ? width/height*0.02 : height/width*0.005
+  	return width > height ? width/height*0.005 : height/width*0.001
   }))
   ;
 
